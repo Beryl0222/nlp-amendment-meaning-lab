@@ -1,0 +1,110 @@
+[
+  {
+    "id": "a1",
+    "draft": "draft-a",
+    "number": "第一条",
+    "text": "本约定所称经营者，是提供信息浏览或互动功能的组织。",
+    "refs": [
+      "draft-a"
+    ]
+  },
+  {
+    "id": "a2",
+    "draft": "draft-a",
+    "number": "第二条",
+    "text": "经营者面向未成年人的推荐服务，应当提供监护人控制功能。",
+    "refs": [
+      "draft-a"
+    ]
+  },
+  {
+    "id": "a3",
+    "draft": "draft-a",
+    "number": "第三条",
+    "text": "仅供学校内部教学使用且不对外开放的服务，不适用第二条。",
+    "refs": [
+      "draft-a"
+    ]
+  },
+  {
+    "id": "a4",
+    "draft": "draft-a",
+    "number": "第四条",
+    "text": "第二条规定的经营者应保存控制设置变更记录三十日。",
+    "refs": [
+      "draft-a"
+    ]
+  },
+  {
+    "id": "a5",
+    "draft": "draft-a",
+    "number": "第五条",
+    "text": "信息浏览不包括只显示当前天气文字的设备。",
+    "refs": [
+      "draft-a"
+    ]
+  },
+  {
+    "id": "a6",
+    "draft": "draft-a",
+    "number": "第六条",
+    "text": "暂停服务时应保留用户查询自己记录的途径。",
+    "refs": [
+      "draft-a"
+    ]
+  },
+  {
+    "id": "b1",
+    "draft": "draft-b",
+    "number": "第一条",
+    "text": "本约定所称经营者，是向未成年人提供信息浏览或互动功能的组织。",
+    "refs": [
+      "draft-b"
+    ]
+  },
+  {
+    "id": "b2",
+    "draft": "draft-b",
+    "number": "第二条",
+    "text": "经营者应当提供监护人控制功能。",
+    "refs": [
+      "draft-b"
+    ]
+  },
+  {
+    "id": "b3",
+    "draft": "draft-b",
+    "number": "第三条",
+    "text": "仅供学校内部教学使用的服务，不适用第二条。",
+    "refs": [
+      "draft-b"
+    ]
+  },
+  {
+    "id": "b4",
+    "draft": "draft-b",
+    "number": "第四条",
+    "text": "第二条规定的经营者应保存控制设置变更记录三十日。",
+    "refs": [
+      "draft-b"
+    ]
+  },
+  {
+    "id": "b5",
+    "draft": "draft-b",
+    "number": "第五条",
+    "text": "信息浏览不包括只显示当前气象文字的设备。",
+    "refs": [
+      "draft-b"
+    ]
+  },
+  {
+    "id": "b6",
+    "draft": "draft-b",
+    "number": "第六条",
+    "text": "暂停服务时应保留用户查询自己记录的途径。",
+    "refs": [
+      "draft-b"
+    ]
+  }
+]

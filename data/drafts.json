@@ -1,0 +1,15 @@
+[
+  {
+    "id": "draft-a",
+    "title": "青城少年信息服务约定",
+    "version": 1
+  },
+  {
+    "id": "draft-b",
+    "title": "青城少年信息服务约定",
+    "version": 2,
+    "refs": [
+      "draft-a"
+    ]
+  }
+]

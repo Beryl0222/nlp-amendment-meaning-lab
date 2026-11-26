@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ri1",
+    "proposal": "pr1",
+    "action": "accept_in_principle",
+    "text": "同意扩展互动功能，条文位置待合订。",
+    "refs": [
+      "pr1"
+    ]
+  },
+  {
+    "id": "ri2",
+    "proposal": "pr3",
+    "action": "defer",
+    "text": "先核对保存记录与查询权的关系。",
+    "refs": [
+      "pr3"
+    ]
+  },
+  {
+    "id": "ri3",
+    "proposal": "pr4",
+    "action": "request_revision",
+    "text": "不得丢失原本的暂停服务前提。",
+    "refs": [
+      "pr4"
+    ]
+  }
+]
